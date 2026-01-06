@@ -1,0 +1,7 @@
+{
+  "name": "Pier Coquetelaria - Landing Page Premium",
+  "description": "Uma landing page institucional e de conversão de alto padrão para a Pier Coquetelaria, focada em sofisticação, exclusividade e excelência em mixologia para eventos de luxo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
